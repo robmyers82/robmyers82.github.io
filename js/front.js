@@ -445,7 +445,7 @@ function waypointsRefresh() {
 function contactForm() {
     $("#contact-form").submit(function () {
 
-	var url = "https://formspree.io/rob@uitstartup.org"; // the script where you handle the form input.
+	var url = "https://formspree.io/rob@collegio.ca"; // the script where you handle the form input.
 
 	$.ajax({
 	    type: "POST",
